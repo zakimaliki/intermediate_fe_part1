@@ -1,0 +1,6 @@
+.wrapperInput{
+    width: 500px;
+    display: flex;
+    align-items: flex-end;
+    border: 1px solid black;
+}

@@ -1,0 +1,19 @@
+body {
+    text-decoration: none;
+    color: black;
+    cursor: auto;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+/* h1{
+    color : red;
+    font-size : 100px;
+}
+/* .fontCustome{
+    font-size : 100px;
+    color : red;
+} */ 
